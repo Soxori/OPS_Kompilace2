@@ -1,4 +1,4 @@
-cd C:/Users/jakub/Desktop/OPS/OPS_Ukol/OPS_Kompilace2
+
 
 git clone https://github.com/EduTeachers/HelloWorld
 
